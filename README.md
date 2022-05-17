@@ -3,7 +3,7 @@
 ## How to Install
 
 Download the file named `scratch_api.py`. Then in your Python file, use this to import it:
-```
+```python
 import scratch_api.py
 ```
 
