@@ -1,5 +1,12 @@
 # Scratch API
 
+## How to Install
+
+Download the file named `scratch_api.py`. Then in your Python file, use this to import it:
+```
+import scratch_api.py
+```
+
 ## Instructions
 
 ### Users
